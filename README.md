@@ -1,1 +1,1 @@
-# Concurrency-in-Java
+# Exploring java 9 concurrency cookbook
